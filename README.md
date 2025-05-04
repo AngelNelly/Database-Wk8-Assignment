@@ -1,3 +1,5 @@
+Title: STudent's DataBase Management System
+Description
 This SQL script creates a database for managing students and their course enrollments.
 It includes the creation of tables for students, courses, and enrollments, along with some sample data.
 The script assumes the use of MySQL or a compatible database system.

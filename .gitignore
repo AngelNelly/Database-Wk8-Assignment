@@ -1,0 +1,17 @@
+# Ignore virtual environment folder (if using venv)
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore .env file (this hides your sensitive credentials)
+.env
+
+# Ignore IDE/editor folders (optional, but nice to have)
+.vscode/
+.idea/
+
+# Ignore OS-specific files (optional)
+.DS_Store
+Thumbs.db

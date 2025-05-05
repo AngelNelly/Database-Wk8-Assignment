@@ -1,3 +1,10 @@
+Title: Student's DataBase Management System
+Description
+This SQL script creates a database for managing students and their course enrollments.
+It includes the creation of tables for students, courses, and enrollments, along with some sample data.
+The script assumes the use of MySQL or a compatible database system.
+This script is created by Angela Chinweike, a student of Power Learn Projectb Academy,  Software Engineering program.
+
 Title: Manage Tasks App
 Hey Besties! 
 This is a simple FastAPI app I built to manage tasks — you can create, read, update, and delete (CRUD) tasks using a MySQL database.
@@ -107,4 +114,3 @@ Practice FastAPI and MySQL integration
 Understand how to handle CRUD operations
 
 Learn how to protect sensitive data using .env
-
